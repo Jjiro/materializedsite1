@@ -1,0 +1,18 @@
+nav {
+  text-align: center;
+  background-color: #009688 !important;
+}
+
+.nav-wrapper {
+  background-color: #009688 !important;
+}
+.section-search input {
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 70% !important;
+  border: #f4f4f4 3px solid !important;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
