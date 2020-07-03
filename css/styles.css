@@ -6,6 +6,11 @@ nav {
 .nav-wrapper {
   background-color: #009688 !important;
 }
+
+#mobile-nav.sidenav {
+  background-color: #009688 !important;
+}
+
 .section-search input {
   padding: 5px !important;
   font-size: 18px !important;
@@ -15,4 +20,8 @@ nav {
 
 .section-follow .fa-4x {
   margin: 5px 10px;
+}
+
+section {
+  padding: 30px !important;
 }
